@@ -109,4 +109,4 @@ See the [Better Errors Wiki](https://github.com/charliesome/better_errors/wiki) 
 
 Hopefully some day a URL scheme will be baked in to Sublime Text, and all of this will be unneccessary!
 
-See [this thread](http://sublimetext.userecho.com/topic/97042-url-sheme-support-subletc/#comment_263670) on the Sublime Text support system, and upvote if you think this is important.
+See [this thread](http://sublimetext.userecho.com/topics/3451-uri-scheme-handler/) on the Sublime Text support system, and upvote if you think this is important.
